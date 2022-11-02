@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+.page_container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.login_form_box {
+    width: 250px;
+    height: 250px;
+}
